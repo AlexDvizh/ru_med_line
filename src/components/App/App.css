@@ -1,0 +1,61 @@
+.app {
+  font-family: 'Georgia', 'Arial', 'Helvetica', sans-serif;
+  background-color: rgb(255, 255, 255);
+  margin: 0;
+}
+
+/*общие стили для навигации: */
+a {
+  text-decoration: none;
+}
+
+/*общие стили для продукции: */
+.product {
+  width: calc(100% - 100px);
+  margin: auto;
+  padding-top: 50px;
+}
+
+.container-wrap {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 30px;
+  padding: 60px 0 110px 0;
+}
+
+th {
+  padding: 10px;
+  border-bottom: 2px solid gray;
+}
+
+td {
+  padding: 10px;
+}
+
+.container-img {
+  width: auto;
+  max-width: 100%;
+}
+
+.container-title {
+  margin-bottom: 50px;
+}
+
+.container-table {
+  margin-top: 50px;
+  width: auto;
+  max-width: 100%;
+}
+
+.container-table_indent {
+  margin-top: 100px;
+}
+
+.container-info {
+  color: #262627;
+  opacity: 0.9;
+}
+
+.title-padding {
+  padding-left: 200px;
+}

@@ -1,0 +1,43 @@
+.nav {
+
+    padding-top: 20px;
+}
+
+.nav-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: calc(100% - 180px);
+    margin: auto; 
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style: none;
+    max-height: 50px;
+}
+
+.nav-item {
+    display: block;
+    margin-left: 20px;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    color: #040192;
+    font-weight: bold;
+    opacity: 0.9;
+}
+
+.nav-item:hover {
+    cursor: pointer;
+    color: #262627;
+    opacity: 0.8;
+}
+
+.nav-contacts {
+    color: #040192;
+    font-weight: bold;
+    opacity: 0.9;
+}
