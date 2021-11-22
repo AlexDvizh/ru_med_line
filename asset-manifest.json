@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ru_med_line/static/css/main.ca773048.chunk.css",
-    "main.js": "/ru_med_line/static/js/main.c232186f.chunk.js",
-    "main.js.map": "/ru_med_line/static/js/main.c232186f.chunk.js.map",
+    "main.css": "/ru_med_line/static/css/main.69e35350.chunk.css",
+    "main.js": "/ru_med_line/static/js/main.5a70c27c.chunk.js",
+    "main.js.map": "/ru_med_line/static/js/main.5a70c27c.chunk.js.map",
     "runtime-main.js": "/ru_med_line/static/js/runtime-main.b150e7a4.js",
     "runtime-main.js.map": "/ru_med_line/static/js/runtime-main.b150e7a4.js.map",
     "static/css/2.0115c158.chunk.css": "/ru_med_line/static/css/2.0115c158.chunk.css",
@@ -10,9 +10,9 @@
     "static/js/2.a5d67b15.chunk.js.map": "/ru_med_line/static/js/2.a5d67b15.chunk.js.map",
     "index.html": "/ru_med_line/index.html",
     "static/css/2.0115c158.chunk.css.map": "/ru_med_line/static/css/2.0115c158.chunk.css.map",
-    "static/css/main.ca773048.chunk.css.map": "/ru_med_line/static/css/main.ca773048.chunk.css.map",
+    "static/css/main.69e35350.chunk.css.map": "/ru_med_line/static/css/main.69e35350.chunk.css.map",
     "static/js/2.a5d67b15.chunk.js.LICENSE.txt": "/ru_med_line/static/js/2.a5d67b15.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/ru_med_line/static/media/Mulish-Medium.d190ffd6.ttf",
+    "static/media/index.css": "/ru_med_line/static/media/OpenSans-Regular.d7d7b835.ttf",
     "static/media/demax.cdadc836.jpg": "/ru_med_line/static/media/demax.cdadc836.jpg",
     "static/media/Header.css": "/ru_med_line/static/media/fon.8a9ad974.jpg",
     "static/media/liniya-postoyannogo-davleniya.a562fa28.jpg": "/ru_med_line/static/media/liniya-postoyannogo-davleniya.a562fa28.jpg",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.b150e7a4.js",
     "static/css/2.0115c158.chunk.css",
     "static/js/2.a5d67b15.chunk.js",
-    "static/css/main.ca773048.chunk.css",
-    "static/js/main.c232186f.chunk.js"
+    "static/css/main.69e35350.chunk.css",
+    "static/js/main.5a70c27c.chunk.js"
   ]
 }
