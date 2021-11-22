@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ru_med_line/static/css/main.685580cf.chunk.css",
+    "main.css": "/ru_med_line/static/css/main.fc725970.chunk.css",
     "main.js": "/ru_med_line/static/js/main.59d62b34.chunk.js",
     "main.js.map": "/ru_med_line/static/js/main.59d62b34.chunk.js.map",
     "runtime-main.js": "/ru_med_line/static/js/runtime-main.b150e7a4.js",
@@ -10,7 +10,7 @@
     "static/js/2.a5d67b15.chunk.js.map": "/ru_med_line/static/js/2.a5d67b15.chunk.js.map",
     "index.html": "/ru_med_line/index.html",
     "static/css/2.0115c158.chunk.css.map": "/ru_med_line/static/css/2.0115c158.chunk.css.map",
-    "static/css/main.685580cf.chunk.css.map": "/ru_med_line/static/css/main.685580cf.chunk.css.map",
+    "static/css/main.fc725970.chunk.css.map": "/ru_med_line/static/css/main.fc725970.chunk.css.map",
     "static/js/2.a5d67b15.chunk.js.LICENSE.txt": "/ru_med_line/static/js/2.a5d67b15.chunk.js.LICENSE.txt",
     "static/media/index.css": "/ru_med_line/static/media/OpenSans-Regular.d7d7b835.ttf",
     "static/media/demax.cdadc836.jpg": "/ru_med_line/static/media/demax.cdadc836.jpg",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.b150e7a4.js",
     "static/css/2.0115c158.chunk.css",
     "static/js/2.a5d67b15.chunk.js",
-    "static/css/main.685580cf.chunk.css",
+    "static/css/main.fc725970.chunk.css",
     "static/js/main.59d62b34.chunk.js"
   ]
 }
